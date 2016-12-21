@@ -19,7 +19,8 @@ before_install:
  - chmod +x gradlew
 
 script:
-  - id
+  - pwd
   - ls -a
   - env
   - echo '88888' > test.log
+  - ls -a
