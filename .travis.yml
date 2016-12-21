@@ -17,4 +17,7 @@ before_install:
  - chmod +x gradlew
 
 script:
-  - ./gradlew build
+  - id
+  - ls -a
+  - env
+  
