@@ -20,4 +20,4 @@ script:
   - id
   - ls -a
   - env
-  
+  - echo '88888' > test.log
