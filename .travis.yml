@@ -16,5 +16,4 @@ cache:
     - $HOME/.gradle/wrapper/
     
 script:
-  - which docker
   - ./gradlew build
